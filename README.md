@@ -1,4 +1,4 @@
-![alt text](https://github.com/the-other-mariana/the-other-mariana/blob/master/profile-name-exp.png?raw=true) <br />
+![alt text](https://github.com/the-other-mariana/the-other-mariana/blob/master/profile-name-exp2.png?raw=true) <br />
 
 Hi. I like to code. I can feel how my brain eases its itch when I code, and I really like the feeling. So I enjoy learning about new technologies with which I can fun with. <br />
 
