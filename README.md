@@ -13,17 +13,17 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 
 ### Languages and Tools I've Worked With
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/java-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mathem-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/u-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cs-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cpp-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/git-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/gh-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/js-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/node-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/truffle-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/sol-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mongo-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/msql-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/java-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mathem-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/u-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cs-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cpp-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/git-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/gh-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/js-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/node-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/truffle-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/sol-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mongo-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/msql-logo.png" />
