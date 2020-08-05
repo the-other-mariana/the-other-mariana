@@ -19,6 +19,7 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/u-logo.png" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cs-logo.png" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cpp-logo.png" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/c-logo.png" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/git-logo.png" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/gh-logo.png" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/js-logo.png" />
