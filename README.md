@@ -10,3 +10,7 @@ I especially enjoy coding with math, that moment of finding the special case tha
 In my spare time I am a passionate fan of football. I like any team that plays beautifully. <br />
 
 I am from Mexico and I live there as well. Although, I had the chance to live in Zagreb, Croatia for a while, and I think Majka Hrvatska stole my heart.<br />
+
+### Languages and Tools I've Worked With
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
