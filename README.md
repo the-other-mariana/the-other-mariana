@@ -29,4 +29,4 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mongoDB-logo.png" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mysql-logo.png" />
 <img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/maxscript-logo.png" />
-<img align="left" alt="Visual Studio Code" height="25px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/latex-logo.png" />
+<img align="left" alt="Visual Studio Code" height="20px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/latex-logo.png" />
