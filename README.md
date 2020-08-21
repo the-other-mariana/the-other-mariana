@@ -3,9 +3,9 @@
 
 ### Who am I?
 
-Hi. I like to code. I can feel how my brain eases its itch when I code, and I really like the feeling. So I enjoy learning about new technologies with which I can fun with. <br />
+Hi. I like to code. I can feel how my brain eases its itch when I code, and I really like the feeling. I use GitHub to talk to myself and upload the things I spend my time on.<br />
 
-I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. Anyway, coding has a lot of branches and I am currently learning web development and anything I can find on my way.<br />
+I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. Anyway, coding has a lot of branches and I am currently learning web development and anything new I can find on my way.<br />
 
 In my spare time I am a passionate fan of football. I like any team that plays beautifully. <br />
 
