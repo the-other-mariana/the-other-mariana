@@ -22,6 +22,7 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/c-logo.png" />
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/git-logo.png" />
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/gh-logo.png" />
+<img align="left" alt="icon" height="20px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/latex-logo.png" />
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/js-logo.png" />
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/node-logo.png" />
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/truffle-logo.png" />
@@ -29,4 +30,3 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mongoDB-logo.png" />
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mysql-logo.png" />
 <img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/maxscript-logo.png" />
-<img align="left" alt="icon" height="20px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/latex-logo.png" />
