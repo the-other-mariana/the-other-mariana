@@ -14,7 +14,7 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 ### Languages and Tools I've Worked With
 
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
-<img align="left" alt="icon" width="33px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/java-logo.png" />
+<img align="left" alt="icon" width="23px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/java-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mathem-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/u-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cs-logo.png" />
