@@ -15,6 +15,10 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 <p> Mariana on ResearchGate </p>
 </a>
 
+<a href="https://www.linkedin.com/in/mariana-%C3%A1valos-arce-83a097191/">
+<p> Mariana on LinkedIn </p>
+</a>
+
 ### Programming Languages & Tools
 
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
