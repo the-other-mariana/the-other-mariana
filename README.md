@@ -16,7 +16,7 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 </a>
 
 <a href="https://www.linkedin.com/in/mariana-%C3%A1valos-arce-83a097191/">
-<p> Mariana on LinkedIn </p>
+<img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 
 ### Programming Languages & Tools
