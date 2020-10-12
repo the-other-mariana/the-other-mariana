@@ -22,6 +22,7 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 </a>
 
 <br />
+<br />
 
 ### Programming Languages & Tools
 
