@@ -14,12 +14,14 @@ I am from Mexico and I live there as well. Although, I had the chance to live in
 ### Follow Me
 
 <a href="https://www.researchgate.net/profile/Mariana_Avalos3">
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/research-gate-logo.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/research-gate-logo.jpg" />
 </a>
 
 <a href="https://www.linkedin.com/in/mariana-%C3%A1valos-arce-83a097191/">
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/linkedin-logo.png" />
 </a>
+
+<br />
 
 ### Programming Languages & Tools
 
