@@ -11,12 +11,14 @@ In my spare time I am a passionate fan of football. I like any team that plays b
 
 I am from Mexico and I live there as well. Although, I had the chance to live in Zagreb, Croatia for a while, and I think Majka Hrvatska stole my heart.<br />
 
+### Follow Me
+
 <a href="https://www.researchgate.net/profile/Mariana_Avalos3">
-<p> Mariana on ResearchGate </p>
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/research-gate-logo.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/mariana-%C3%A1valos-arce-83a097191/">
-<img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/linkedin-logo.png" />
 </a>
 
 ### Programming Languages & Tools
