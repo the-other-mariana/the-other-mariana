@@ -3,7 +3,7 @@
 
 ### Who am I?
 
-Hi. I like to code. I can feel how my brain eases its itch when I code, and I really like the feeling. I use GitHub to talk to myself and upload the things I spend my time on.<br />
+Hi. I like to code. I can feel how my brain eases its itch when I code, and I really like the feeling. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping maybe they will be useful for somebody, someday.<br />
 
 I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. Anyway, coding has a lot of branches and I am currently learning web development and anything new I can find on my way.<br />
 
