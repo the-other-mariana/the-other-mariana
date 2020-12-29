@@ -3,13 +3,13 @@
 
 ### Who am I?
 
-Hi. I like to code. I can feel how my brain eases its itch when I code, and I really like the feeling. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
+Hello. I love coding and the feeling during the whole process of code. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
 
 I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. Anyway, coding has a lot of branches and I am currently learning web development and anything new I can find on my way.<br />
 
 In my spare time I am a passionate fan of football. I like any team that plays beautifully. <br />
 
-I am from Mexico and I live there as well. Although, I had the chance to live in Zagreb, Croatia for a while, and I think Majka Hrvatska stole my heart.<br />
+I am from Mexico and I live there as well. Although, I had the chance to live in Zagreb, Croatia for a while, and I think Majka Hrvatska stole my heart. <br />
 
 ### Follow Me
 
