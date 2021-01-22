@@ -1,0 +1,36 @@
+$ make user
+{
+  "message": "Welcome the-other-mariana to the Classify API. Your access token is: 'JDJhJDEwJFdwN1dVMFZaZFBPMTExeDdaR0YuL2VGeDQ3dDIxdGxVaUNibXFodFFYRUlVd3hOazVxL1p1', save it in the classify.token git local variable",
+  "user": {
+    "ID": "ca560f53-e8b2-4e50-80bb-1b377bdb0a8e",
+    "Name": "Mariana Avalos Arce",
+    "GithubID": "the-other-mariana",
+    "SchoolID": "0197495",
+    "ClassID": "07184303-556d-46ea-ab9d-bd56a9305615"
+  }
+}
+
+$ make test
+User Information
+curl -k -s http://classify.obedmr.com//users\?githubID\=the-other-mariana  | jq
+{
+  "message": "List of Users",
+  "users": [
+    {
+      "ID": "ca560f53-e8b2-4e50-80bb-1b377bdb0a8e",
+      "Name": "Mariana Avalos Arce",
+      "GithubID": "the-other-mariana",
+      "SchoolID": "0197495",
+      "ClassID": "07184303-556d-46ea-ab9d-bd56a9305615"
+    }
+  ]
+}
+
+$ git config --local --list | grep classify
+classify.fullname=Mariana Avalos Arce
+classify.github-user=the-other-mariana
+classify.school-id=0197495
+classify.token=JDJhJDEwJFdwN1dVMFZaZFBPMTExeDdaR0YuL2VGeDQ3dDIxdGxVaUNibXFodFFYRUlVd3hOazVxL1p1
+
+$ git config --local classify.token
+JDJhJDEwJFdwN1dVMFZaZFBPMTExeDdaR0YuL2VGeDQ3dDIxdGxVaUNibXFodFFYRUlVd3hOazVxL1p1
