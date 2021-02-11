@@ -5,7 +5,7 @@
 
 Hello. I love coding. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
 
-I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. Anyway, coding has a lot of branches and I am currently learning web development and anything new I can find on my way.<br />
+I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. Anyway, coding has a lot of branches and I am currently learning some more web dev and anything new I find on my way. <br />
 
 In my spare time I am a passionate fan of football. I like any team that plays beautifully. <br />
 

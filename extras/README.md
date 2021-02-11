@@ -46,7 +46,7 @@ $: git remote remove <wrongly_created_remote>
 
 This section will be really important for every lab that you're going to develop. Every time that you're going to start a new lab, make sure that you sync first your local cloned repository in order to get the latest changes from the class github repository.
 
-Fist, make sure you are located in the root path of the repository.
+First, make sure you are located in the root path of the repository.
 
 ```
 $: pwd
@@ -148,7 +148,7 @@ $: git add test-lab.go
 $: git commit -s -m 'Solved test-lab'
 ```
 
-It may ask you to configure your user's name and email. Run teh following commands and then commit again.
+It may ask you to configure your user's name and email. Run the following commands and then commit again.
 
 ```
 $: git config --global user.name "<Full Name>" # "Mariana Avalos Arce"
@@ -157,7 +157,7 @@ $: git config --global user.email "<your email>" # "mariana.avalos.arce@gmail.co
 
 ### Push
 
-Once your change is committed to the locall repo history, push it to your fork's remote source.
+Once your change is committed to the local repo history, push it to your fork's remote source.
 
 ```
 $: git push <your_github_account> <branch_name>
