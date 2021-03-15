@@ -7,16 +7,16 @@ Hello. I love coding. I use GitHub to talk to myself and upload the software pro
 
 I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. My favorite branches from Computer Science include:
 
-    - Data Structures
-    - Computer Graphics
-    - Computational Geometry
-    - Simulation
-    - Concurrency
-    - Backend
+- Data Structures
+- Computer Graphics
+- Computational Geometry
+- Simulation
+- Concurrency
+- Backend
 
-In a nutshell, what I try to accomplish everyday is: <br />
+In a nutshell, what motivates my coding is: <br />
 
-> Code something that makes me proud
+> Code something that makes you proud and that it is useful for future reference
 
 In my spare time I am a passionate fan of football. I like any team that plays beautifully. <br />
 
