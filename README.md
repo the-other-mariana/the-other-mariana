@@ -16,7 +16,7 @@ I especially enjoy coding with math, that moment of finding the special case tha
 
 In a nutshell, what motivates my coding is: <br />
 
-> Code something that makes you proud and that it is useful for future reference
+> Code something that makes you proud and that it's useful for the future!
 
 In my spare time I am a passionate fan of football. I like any team that plays beautifully. <br />
 
