@@ -1,7 +1,7 @@
 ![alt text](https://github.com/the-other-mariana/the-other-mariana/blob/master/profile-name-exp.png?raw=true) <br />
 
 
-### Who am I?
+### Hello Word :wave:
 
 Hello. I love coding. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
 
@@ -18,9 +18,9 @@ In a nutshell, what motivates my coding is: <br />
 
 > Code something that makes you proud and that it's useful for the future!
 
-In my spare time I am a passionate fan of football. I like any team that plays beautifully. <br />
+In my spare time I am a passionate fan of football :soccer:<br />
 
-I am from Mexico and I live there as well. Although, I had the chance to live in Zagreb, Croatia for a while, and I think Majka Hrvatska stole my heart. <br />
+I am from Mexico and I live there as well. Although, I had the chance to live in Zagreb, Croatia for a while, and I think Majka Hrvatska stole my heart :croatia: <br />
 
 ### Follow Me
 
