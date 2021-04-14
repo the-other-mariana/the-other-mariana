@@ -7,18 +7,22 @@ Hello. I love coding. I use GitHub to talk to myself and upload the software pro
 
 I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. My favorite branches from Computer Science include:
 
-- Data Structures
 - Computer Graphics
 - Computational Geometry
 - Simulation
 - Concurrency
-- Backend
+- RESTful APIs
+- Sensors, motors & Microcontroller Boards
 
 In a nutshell, what motivates my coding is: <br />
 
 > Code something that makes you proud.
 
 In my spare time I am a passionate fan of football :soccer:<br />
+
+| Me & Github  | Me & Languages |
+|:----:|:----:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-other-mariana&theme=solarized) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-other-mariana&theme=solarized) |
 
 ### Follow Me
 
