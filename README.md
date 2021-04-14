@@ -20,7 +20,6 @@ In a nutshell, what motivates my coding is: <br />
 
 In my spare time I am a passionate fan of football :soccer:<br />
 
-| Me & Github  | Me & Languages |
 |:----:|:----:|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-other-mariana&theme=solarized) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-other-mariana&theme=solarized) |
 
