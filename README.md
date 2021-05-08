@@ -1,9 +1,8 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-other-mariana&theme=solarized) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-other-mariana&theme=solarized)
-
+![image](https://github.com/the-other-mariana/the-other-mariana/blob/master/hello.png?raw=true)
 
 ### Hello World :wave:
 
-Hello. I love coding. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
+Hello, my name is Mariana. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
 
 I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. My favorite branches from Computer Science include:
 
