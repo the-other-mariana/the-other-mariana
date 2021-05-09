@@ -1,8 +1,8 @@
 ![image](https://github.com/the-other-mariana/the-other-mariana/blob/master/hello.png?raw=true)
 
-### Hello World :wave:
+## Welcome :wave:
 
-Hello, my name is Mariana. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
+Hi, my name is Mariana. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
 
 I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. My favorite branches from Computer Science include:
 
@@ -13,12 +13,11 @@ I especially enjoy coding with math, that moment of finding the special case tha
 - RESTful APIs
 - Sensors, motors & Microcontroller Boards
 
-In a nutshell, what motivates my coding is: <br />
+My motivation is basically: <br />
 
 > Code something that makes you proud.
 
-In my spare time I am a passionate fan of football :soccer:<br />
-
+In my spare time I am a passionate fan of football :soccer: and Croatian language. <br />
 
 
 ### Follow Me
