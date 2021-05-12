@@ -4,7 +4,7 @@
 
 Hi, my name is Mariana. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
 
-I especially enjoy coding with math, that moment of finding the special case that helps you describe generality. My favorite branches from Computer Science include:
+My favorite branches from Computer Science include:
 
 - Computer Graphics
 - Computational Geometry
@@ -17,7 +17,7 @@ My motivation is basically: <br />
 
 > Code something that makes you proud.
 
-In my spare time I am a passionate fan of football :soccer: and Croatian language. <br />
+In my spare time I am a passionate fan of football :soccer: and Croatian language: sve će biti dobro :) <br />
 
 
 ### Follow Me
