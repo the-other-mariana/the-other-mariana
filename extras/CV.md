@@ -14,7 +14,7 @@
 
 3. I like to read and my favorite book is *In Search of Lost Time* by [Marcel Proust](https://es.wikipedia.org/wiki/Marcel_Proust).
 
-4. I like to learn *Croatian Language*, and a quote I can tell you is:
+4. I like learning *Croatian Language*, and a quote I can tell you is:
 
 > sve će biti dobro (Everything will be alright)
 
@@ -24,7 +24,7 @@
 
 - My favorite webpage is github, and you can visit my github profile [here](https://github.com/the-other-mariana).
 
-- My favorite programing languages are Python and Golang. Python for its data structures and Golang for its parallelism and thread usage.
+- My favorite programming languages are Python and Golang. Python for its data structures and Golang for its parallelism and thread usage.
 
 ## Experience
 
