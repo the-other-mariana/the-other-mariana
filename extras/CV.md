@@ -24,7 +24,7 @@
 
 - My favorite webpage is github, and you can visit my github profile [here](https://github.com/the-other-mariana).
 
-- My favorite programing languages are Python and Golang:
+- My favorite programing languages are Python and Golang. Python for its data structures and Golang for its parallelism and thread usage.
 
 ## Experience
 
