@@ -1,0 +1,7 @@
+# New Set Up
+
+1. Connect the base to the wall and to the original modem through ethernet.
+2. Connect the router to the wall.
+3. Press Reset button until all leds are off.
+4. Press Pair button on the router (super quick) and then press Pair button on the base (super quick).
+5. If the house led starts, you're finished.
