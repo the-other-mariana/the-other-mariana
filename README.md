@@ -2,14 +2,14 @@
 
 ## Welcome :wave:
 
-Hi, my name is Mariana. I use GitHub to talk to myself and upload the software projects I spend my time on, hoping that maybe they will be useful for somebody, someday.<br />
+Hi, my name is Mariana. I use GitHub to talk to myself and keep an order in my code, so that it can be useful in the future, either to me or to anyone. I love software.
 
 My favorite branches from Computer Science include:
 
 - Computer Graphics
 - Computational Geometry
-- Simulation
-- Concurrency
+- Simulation (Math & Stats)
+- Threads
 - RESTful APIs
 - Sensors, motors & Microcontroller Boards
 
