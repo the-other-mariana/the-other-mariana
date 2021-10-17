@@ -2,7 +2,7 @@
 
 ## Welcome :wave:
 
-Hi, my name is Mariana. I use GitHub to talk to myself and keep an order in my code, so that it can be useful in the future, either to me or to anyone. I love software.
+Hi, my name is Mariana. I use GitHub to talk to myself and keep an order in my code, so that it can be useful in the future, either to me or to anyone. I love software and discovering new things.
 
 My favorite branches from Computer Science include:
 
@@ -15,7 +15,7 @@ My favorite branches from Computer Science include:
 
 My motivation is basically: <br />
 
-> Code something that makes you proud.
+> Code something meaningful.
 
 In my spare time I am a passionate fan of football :soccer: and Croatian language: sve će biti dobro :) <br />
 
