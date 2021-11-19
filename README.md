@@ -2,9 +2,9 @@
 
 ## Welcome :wave:
 
-Hi, my name is Mariana. I use GitHub to talk to myself and keep an order in my code, so that it can be useful in the future, either to me or to anyone. I love software and discovering new things.
+Hi, I'm Mariana, always with short hair and glasses. I use GitHub to talk to myself and keep an order in my code.
 
-My favorite branches from Computer Science include:
+My favorite branches from Computer Science are:
 
 - Computer Graphics
 - Computational Geometry
