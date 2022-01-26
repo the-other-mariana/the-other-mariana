@@ -1,4 +1,4 @@
-![image](https://github.com/the-other-mariana/the-other-mariana/blob/master/hello.png?raw=true)
+![image](sc02.png)
 
 ## Welcome :wave:
 
