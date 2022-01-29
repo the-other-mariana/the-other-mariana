@@ -1,4 +1,4 @@
-![image](sc02.png)
+![image](sc03.png)
 
 ## Welcome :wave:
 
