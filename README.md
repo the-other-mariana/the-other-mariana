@@ -9,9 +9,8 @@ My interests regarding Computer Science are:
 - Computer Graphics
 - Computational Geometry
 - Simulation (Math & Stats)
-- Threads
-- RESTful APIs
-- Sensors, motors & Microcontroller Boards
+- Parallelism/Concurrency in RESTful APIs
+- Sensors, motors & microcontroller Boards
 
 My motivation is basically: <br />
 
