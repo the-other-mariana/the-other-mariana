@@ -2,7 +2,7 @@
 
 ## Welcome :wave:
 
-Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
+Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in the code I love.
 
 My interests regarding Computer Science are:
 
@@ -11,10 +11,6 @@ My interests regarding Computer Science are:
 - Simulation (Math & Stats)
 - Parallelism/Concurrency in RESTful APIs
 - Sensors, motors & microcontroller Boards
-
-My motivation is basically: <br />
-
-> Code something meaningful.
 
 In my spare time I am a passionate fan of football :soccer: and Croatian language: sve će biti dobro :) <br />
 
