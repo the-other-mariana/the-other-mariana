@@ -58,3 +58,8 @@ In my spare time I am a passionate fan of football :soccer: and Croatian languag
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/octave-logo.png" />
 <img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cuda.png" />
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/the-other-mariana/count.svg" />
+</p>
