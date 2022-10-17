@@ -12,8 +12,11 @@ My interests regarding Computer Science are:
 - Parallelism/Concurrency in RESTful APIs
 - Sensors, motors & microcontroller Boards
 
-In my spare time I am a passionate fan of football :soccer: and Croatian language: sve će biti dobro :) <br />
-
+<br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/the-other-mariana/count.svg" />
+</p>
 
 ### Follow Me
 
@@ -59,7 +62,3 @@ In my spare time I am a passionate fan of football :soccer: and Croatian languag
 <img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cuda.png" />
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/the-other-mariana/count.svg" />
-</p>
