@@ -10,7 +10,7 @@ My interests regarding Computer Science are:
 - Computational Geometry
 - Simulation (Math & Stats)
 - Threads
-- RESTful APIs
+- React + Redux + Typescript
 - Sensors, motors & Microcontroller Boards
 
 My motivation is basically: <br />
