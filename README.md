@@ -2,7 +2,7 @@
 
 ## Welcome :wave:
 
-Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
+Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in the code I love.
 
 My interests regarding Computer Science are:
 
@@ -13,12 +13,11 @@ My interests regarding Computer Science are:
 - React + Redux + Typescript
 - Sensors, motors & Microcontroller Boards
 
-My motivation is basically: <br />
-
-> Code something meaningful.
-
-In my spare time I am a passionate fan of football :soccer: and Croatian language: sve će biti dobro :) <br />
-
+<br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/the-other-mariana/count.svg" />
+</p>
 
 ### Follow Me
 
@@ -62,4 +61,6 @@ In my spare time I am a passionate fan of football :soccer: and Croatian languag
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/r-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/octave-logo.png" />
 <img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cuda.png" />
-
+<img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/react.png" />
+<img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/redux.png" />
+<img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/ts.png" />
