@@ -1,6 +1,4 @@
-![image](sc03.png)
-
-## Welcome :wave:
+## Hello World :wave:
 
 Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 
@@ -11,9 +9,11 @@ Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 - Image Processing
 - Plots and insights on plots
 - Microcontroller boards, and buttons, and sensors, and all that.
-- Redux
+- Redux + React
 - Golang, C++ and the CUDA framework. I could talk about these all day (Oh, and CMake).
 - Linux
+
+But basically, any *good solution*.
 
 ### Follow Me
 
