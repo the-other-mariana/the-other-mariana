@@ -4,7 +4,7 @@
 
 Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 
-**I love**:
+**Generally, I love**:
 
 - Multi-threading
 - GPU programming
@@ -12,7 +12,7 @@ Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 - Plots and insights on plots
 - Microcontroller boards, and buttons, and sensors, and all that.
 - Redux
-
+- Golang, C++ and the CUDA framework. I could talk about these all day.
 
 ### Follow Me
 
