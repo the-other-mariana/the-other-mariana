@@ -13,6 +13,7 @@ Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 - Microcontroller boards, and buttons, and sensors, and all that.
 - Redux
 - Golang, C++ and the CUDA framework. I could talk about these all day (Oh, and CMake).
+- Linux
 
 ### Follow Me
 
