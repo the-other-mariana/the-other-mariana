@@ -7,15 +7,10 @@ Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 **I love**:
 
 - Multi-threading
-
 - GPU programming
-
-- Computer Graphics
-
+- Image Processing
 - Plots and insights on plots
-
 - Microcontroller boards, and buttons, and sensors, and all that.
-
 - Redux
 
 
@@ -42,13 +37,12 @@ Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mathem-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/git-logo.png" />
 <img align="left" alt="icon" width="38px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/latex-logo.png" />
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/truffle-logo.png" />
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/sol-logo.png" />
-<br />
-<br />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/raspberry-pi-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/arduino-logo-1.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/ubuntu-logo.png" />
 <img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/react.png" />
 <img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/redux.png" />
 <img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/ts.png" />
+<br />
+<br />
+
