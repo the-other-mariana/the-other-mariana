@@ -12,7 +12,7 @@ Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 - Plots and insights on plots
 - Microcontroller boards, and buttons, and sensors, and all that.
 - Redux
-- Golang, C++ and the CUDA framework. I could talk about these all day.
+- Golang, C++ and the CUDA framework. I could talk about these all day (Oh, and CMake).
 
 ### Follow Me
 
@@ -31,8 +31,9 @@ Hi, I'm Mariana. I use GitHub to talk to myself and keep an order in my code.
 
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/go.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cpp-logo.png" />
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/c-logo.png" />
+<img align="left" alt="icon" width="36px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/c-logo.png" />
 <img align="left" alt="icon" height="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cuda.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cmake.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mathem-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/git-logo.png" />
